@@ -1,0 +1,1 @@
+This Python program solves the 8-puzzle problem. The 8-puzzle is a sliding puzzle that consists of a 3x3 grid with 8 numbered tiles and one blank space. The goal is to rearrange the tiles to match a specified target configuration by sliding the tiles into the blank space.
